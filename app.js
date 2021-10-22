@@ -1,7 +1,7 @@
 
 
 const sayHi =()=> {
-    console.log("Hello");
+    console.log("Hello mary");
 }
 
 
